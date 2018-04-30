@@ -1,0 +1,13 @@
+{
+  "name": "graphql",
+  "version": "1.0.0",
+  "description": "graphql practice",
+  "main": "server/index2.js",
+  "repository": "https://github.com/jemcafe/graphql.git",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-graphql": "^0.6.12",
+    "graphql": "^0.13.2"
+  }
+}
