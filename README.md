@@ -8,5 +8,5 @@ Graphql is a query language for APIs. I just wanted to make a simple express gra
 * graphql
 
 ### Sources
-[Express Graphql Server](http://graphql.org/graphql-js/running-an-express-graphql-server/)
-[CodingTheSmartWay](https://www.youtube.com/watch?v=Vs_CBxCfFHk)
+* [Express Graphql Server](http://graphql.org/graphql-js/running-an-express-graphql-server/)
+* [CodingTheSmartWay](https://www.youtube.com/watch?v=Vs_CBxCfFHk)
